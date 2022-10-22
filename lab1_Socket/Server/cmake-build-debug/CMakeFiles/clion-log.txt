@@ -1,0 +1,4 @@
+"D:\Clion\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=E:/vscode/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=E:/vscode/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=E:/vscode/mingw64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" -S "E:\Computer Network\Experiment\lab1_Socket\Server" -B "E:\Computer Network\Experiment\lab1_Socket\Server\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/Computer Network/Experiment/lab1_Socket/Server/cmake-build-debug
