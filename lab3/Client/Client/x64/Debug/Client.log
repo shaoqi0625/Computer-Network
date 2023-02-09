@@ -1,0 +1,9 @@
+﻿  源.cpp
+E:\Computer Network\Experiment\lab3\Client\Client\源.cpp(439,10): warning C4101: “start_send”: 未引用的局部变量
+E:\Computer Network\Experiment\lab3\Client\Client\源.cpp(634,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\Computer Network\Experiment\lab3\Client\Client\源.cpp(645,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\Computer Network\Experiment\lab3\Client\Client\源.cpp(811,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\Computer Network\Experiment\lab3\Client\Client\源.cpp(822,21): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\Computer Network\Experiment\lab3\Client\Client\源.cpp(948,83): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Computer Network\Experiment\lab3\Client\Client\源.cpp(140): warning C4715: “Connect”: 不是所有的控件路径都返回值
+  Client.vcxproj -> E:\Computer Network\Experiment\lab3\Client\x64\Debug\Client.exe
